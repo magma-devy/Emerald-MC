@@ -1,6 +1,4 @@
-Emerald MC website v1.1
+Emerald MC website v1.2
 
 New updates:
--Added a blurred image background
--Added a glow effect to the font
--Changed the color of the header font
+-Changed the sizing to be more compatible
