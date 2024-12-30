@@ -54,6 +54,7 @@ body {
     border-radius: 1rem;
     margin: 1rem;
     transition: all 0.3s ease;
+    min-width: 300px;
   }
 
   .news-article:hover {
